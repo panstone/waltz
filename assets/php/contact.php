@@ -1,8 +1,8 @@
 <?php
 
 	// Mail settings
-	$to      = "web-master72@yandex.ru";
-	$subject = "Incanto";
+	$to      = "panaskin.dim@yandex.ru";
+	$subject = "Свадебный вальс";
 
 	// You can put here your email
 	$header = "From: noreply@incanto.com\r\n";
